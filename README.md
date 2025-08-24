@@ -2,6 +2,10 @@
 
 A comprehensive blockchain-based anti-counterfeiting solution built on Stacks using Clarity smart contracts. This system enables manufacturers to register genuine products and track them throughout the entire supply chain, providing immutable proof of authenticity and complete traceability.
 
+## Contract Address
+
+STCF4179J1G9NSK5EK4TYPY2TW82NKYH0NANKGSK.product-authenticity-tracker
+
 ![alt text](image.png)
 
 ## 🌟 Features
